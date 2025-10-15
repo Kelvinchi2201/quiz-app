@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué es Astro?",
+    "options": [
+      "Un framework de JavaScript para backend",
+      "Un framework web para construir sitios rápidos y centrados en el contenido",
+      "Una biblioteca de CSS",
+      "Una base de datos"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "¿Cuál es el propósito principal de las 'Astro Islands'?",
+    "options": [
+      "Crear animaciones complejas",
+      "Manejar la lógica del servidor",
+      "Enviar solo el JavaScript necesario al cliente para la interactividad",
+      "Estilizar componentes de forma aislada"
+    ],
+    "correctAnswer": 2
+  }
+]
