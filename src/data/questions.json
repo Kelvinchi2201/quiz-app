@@ -1,24 +1,112 @@
 [
   {
     "id": 1,
-    "question": "¿Qué es Astro?",
+    "question": "¿Cuántos corazones tiene un pulpo?",
     "options": [
-      "Un framework de JavaScript para backend",
-      "Un framework web para construir sitios rápidos y centrados en el contenido",
-      "Una biblioteca de CSS",
-      "Una base de datos"
+      "Uno",
+      "Dos",
+      "Tres",
+      "Ocho"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "question": "¿De qué país es originaria la salsa Ketchup en su forma más antigua (kê-tsiap)?",
+    "options": [
+      "Estados Unidos",
+      "Alemania",
+      "China",
+      "Italia"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "question": "¿Cuál fue la primera película de largometraje de Disney Pixar?",
+    "options": [
+      "Buscando a Nemo",
+      "Monsters, Inc.",
+      "Toy Story",
+      "Up"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+    "options": [
+      "Fémur",
+      "Húmero",
+      "Tibia",
+      "Cráneo"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "En la mitología griega, ¿quién es el dios del mar?",
+    "options": [
+      "Zeus",
+      "Apolo",
+      "Hades",
+      "Poseidón"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 6,
+    "question": "¿Cómo se le llama en inglés a un grupo de cuervos, un término que se traduce como 'asesinato'?",
+    "options": [
+      "Una bandada (A flock)",
+      "Un asesinato (A murder)",
+      "Un parlamento (A parliament)",
+      "Una manada (A pack)"
     ],
     "correctAnswer": 1
   },
   {
-    "id": 2,
-    "question": "¿Cuál es el propósito principal de las 'Astro Islands'?",
+    "id": 7,
+    "question": "¿Cuál es el único mamífero capaz de volar de verdad?",
     "options": [
-      "Crear animaciones complejas",
-      "Manejar la lógica del servidor",
-      "Enviar solo el JavaScript necesario al cliente para la interactividad",
-      "Estilizar componentes de forma aislada"
+      "La ardilla voladora",
+      "El murciélago",
+      "El colugo",
+      "El petauro del azúcar"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Si estás admirando la 'Torre Inclinada de Pisa', ¿en qué país te encuentras?",
+    "options": [
+      "Francia",
+      "España",
+      "Grecia",
+      "Italia"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 9,
+    "question": "¿Qué planeta es conocido como el 'Planeta Rojo'?",
+    "options": [
+        "Júpiter",
+        "Saturno",
+        "Marte",
+        "Venus"
     ],
     "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "¿Cuál es el país más pequeño del mundo?",
+    "options": [
+      "Mónaco",
+      "Nauru",
+      "San Marino",
+      "Ciudad del Vaticano"
+    ],
+    "correctAnswer": 3
   }
 ]

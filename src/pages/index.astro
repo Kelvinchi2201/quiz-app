@@ -1,8 +1,9 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
 
+import Layout from '../layouts/Layout.astro';
+import Quiz from '../components/Quiz.astro';
+---
 
 <Layout>
-	<Welcome />
+	<Quiz client:load />
 </Layout>
